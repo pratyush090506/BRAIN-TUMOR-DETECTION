@@ -1,0 +1,8 @@
+path: '/Users/pratyushmohanty/Downloads/brain-tumor'
+
+train: '/Users/pratyushmohanty/Downloads/brain-tumor/datasets/train/images'
+val: '/Users/pratyushmohanty/Downloads/brain-tumor/datasets/valid/images'
+
+names:
+  0: negative
+  1: positive
